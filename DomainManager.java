@@ -11,5 +11,4 @@ public class DomainManager implements IDomainManager {
 		}
 		return null;
 	}
-	
 }
