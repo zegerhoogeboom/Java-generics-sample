@@ -4,6 +4,10 @@ public class Product extends Entity {
 
 	private String name;
 	
+	public Product() {
+		super();
+	}
+
 	public Product(String name) {
 		this.name = name;
 	}

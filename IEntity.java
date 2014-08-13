@@ -1,5 +1,5 @@
 package domain;
 
-public interface IEntity {
+public interface IEntity extends IDomain {
 	int getId();
 }
